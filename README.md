@@ -1,4 +1,4 @@
-
+<p align="center"><img  width="100px"  src="Images/HinhCN.jpg" />
 <h2 align="center">Hi 👋, I'm Nguyen Anh Thu</h2>
 <p align="center"><img  width="64" src="https://st.quantrimang.com/photos/image/2021/09/02/co-viet-nam.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> </p>-->
