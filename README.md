@@ -15,7 +15,8 @@
 ✍ Under the Faculty of Statistics and Informatics
 <br>
 ✍ GPA:3.15
-Aout me:https://nguyenannthu.github.io/Introduction-about-Nguy-n-Anh-Th-/
+<br>
+About me:https://nguyenannthu.github.io/Introduction-about-Nguy-n-Anh-Th-/
 <br />
 
 
