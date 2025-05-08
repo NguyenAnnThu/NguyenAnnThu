@@ -36,31 +36,79 @@ About me:https://nguyenannthu.github.io/Introduction-about-Nguy-n-Anh-Th-/
 </p>
 
 ## Skills:
-<p align="center">
-   
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  
-</p>
-
-## Activities:
-
-<table style="width:100%;">
+<table> 
+  <th>Language(s) use  </th>
+  <th> Tools</th>
   <tr>
     <td>
-      ##để hình ảnh vào đây
+       <ul>
+      <li>C#</li>
+      <li>Python</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>SQL</li>
+    </ul>
     </td>
     <td>
-      <p align="center"> 
-        
-      </p>
+       <ul>
+      <li>Visual Studio</li>
+      <li>SQL Server</li>
+      <li>Visual Studio Code</li>
+      <li>Figma</li>
+      <li>Draw.io</li>
+      <li>IntelliJ IDEA</li>
+    </ul>
     </td>
   </tr>
 </table>
+## Academic Highlights
+<table>
+  <th> Relevant Coursework
+    <td> Score</td>
+  <td> Language(s) use</td>
+  </th>
+  <tr>
+    <td>
+      Object-Oriented Programming
+    </td>
+    <td>8.8/10</td>
+    <td> C#</td>
+  </tr>
+   <tr>
+    <td>
+      Data Structures and Algorithms
+    </td>
+    <td>8.3/10</td>
+     <td> C#, Python</td>
+  </tr>
+   <tr>
+    <td>
+      Information Systems Analysis and Design
+    </td>
+    <td>8.6/10</td>
+     <td> SQL, HTML, CSS, Javascript</td>
+  </tr>
+   <tr>
+    <td>
+      Database Management
+    </td>
+    <td> 8.7/10</td>
+    <td> SQL, C#, HTML, CSS, Javascript</td>
+  </tr> 
+  <tr>
+    <td>
+      Information System Security
+    </td>
+    <td>9.0/10</td>
+    <td> SQL, Python </td>
+  </tr>
+  <tr>
+    <td>Business Process Management</td>
+    <td>9.5/10</td>
+    <td> BPMN</td>
+  </tr>
+</table>
 
-# Certificates:ảnh
 
 
