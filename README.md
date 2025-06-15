@@ -110,5 +110,45 @@ About me:https://nguyenannthu.github.io/Introduction-about-Nguy-n-Anh-Th-/
   </tr>
 </table>
 
-
-
+## Personal Projects:
+<h3>Grocery Store Management System</h3>
+<h5> Team Leader – Full-stack Developer </h5>
+<ul>Project description:
+  <li>Developed a system to manage inventory, customers, and suppliers for a retail store.</li>
+  <li>Designed database schema and optimized queries for better performance.</li>
+  <li>Technologies & Tools: HTML, CSS, JavaScript, SQL, Figma</li>
+  <li>Roles: UI Designer, Backend Developer, Database Designer, Business Analyst, Team Leader</li>
+  <li><h5>Link Github: https://github.com/NguyenAnnThu/Nhom8QLQTKD</h5></li>
+</ul>
+<hr>
+<h3>Tuition Center Management System</h3>
+<h5> Full-stack Developer </h5>
+<ul>Project description:
+  <li>Built a system for managing class schedules, and tuition fees.</li>
+  <li>Designed use case diagrams, database schema, and activity flows.</li>
+  <li>Technologies & Tools: HTML, CSS, HTML, SQL</li>
+  <li>Roles: UI Designer, Database Designer, Business Analyst</li>
+  <li><h5>Link Github: </h5></li>
+</ul>
+<hr>
+<h3>UI Testing Project</h3>
+<h5> Automation test-UI Testing for Web Application </h5>
+<ul>Project description:
+  <li>Wrote UI test cases and performed manual and automated testing using Selenium WebDriver in IntelliJ IDEA.</li>
+  <li>Tested key components such as forms, buttons, navigation, and responsive layouts.</li>
+  <li>Verified UI consistency across multiple screen resolutions and against design specifications.</li>
+  <li>Technologies: Java, IntelliJ IDEA, Selenium WebDriver, HTML/CSS</li>
+  <li>Role: Manual & Automated UI Tester</li>
+  <li><h5>Link Github: https:https://github.com/NguyenAnnThu/TestGroup14</h5></li>
+</ul>
+<hr>
+<h3>100 Days of Learning JavaScript </h3>
+<h5> The 100-Day JavaScript Coding Challenge </h5>
+<ul>Project description:
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li><h5>Link Github: </h5></li>
+</ul>
