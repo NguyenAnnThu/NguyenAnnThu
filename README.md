@@ -142,13 +142,4 @@ About me:https://nguyenannthu.github.io/Introduction-about-Nguy-n-Anh-Th-/
   <li><h5>Link Github: https:https://github.com/NguyenAnnThu/TestGroup14</h5></li>
 </ul>
 <hr>
-<h3>100 Days of Learning JavaScript </h3>
-<h5> The 100-Day JavaScript Coding Challenge </h5>
-<ul>Project description:
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li><h5>Link Github: </h5></li>
-</ul>
+
