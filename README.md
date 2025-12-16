@@ -14,7 +14,7 @@
 <br>
 ✍ Under the Faculty of Statistics and Informatics
 <br>
-✍ GPA:3.2
+✍ GPA:3.24/ 4.0
 <br>
 About me:https://nguyenannthu.github.io/Introduction-about-Nguy-n-Anh-Th-/
 <br />
@@ -48,6 +48,7 @@ About me:https://nguyenannthu.github.io/Introduction-about-Nguy-n-Anh-Th-/
       <li>CSS</li>
       <li>JavaScript</li>
       <li>SQL</li>
+      <li>Java - MVC >Java  
     </ul>
     </td>
     <td>
@@ -142,4 +143,36 @@ About me:https://nguyenannthu.github.io/Introduction-about-Nguy-n-Anh-Th-/
   <li><h5>Link Github: https:https://github.com/NguyenAnnThu/TestGroup14</h5></li>
 </ul>
 <hr>
-
+<h3>Homestay Management System Project</h3> 
+<h5>Automation & Custom Module Development for Web Application</h5> 
+<ul>Project description: 
+  <li>Developed a homestay management system using Python and Odoo, extending only essential modules such as Rooms, Customers, and Inventory.</li>
+  <li>Designed and implemented custom modules for room booking, asset management, and cleaning schedule management.</li>
+  <li>Built both the backend logic and user interface to ensure smooth workflows and user-friendly experience.</li>
+  <li>Performed testing of key functionalities including room allocation, booking process, asset tracking, and scheduling.</li>
+  <li>Verified system functionality and data consistency against business requirements and real-life scenarios.</li>
+  <li>Technologies: Python, Odoo, PostgreSQL</li> 
+  <li><h5>Github Link:https://github.com/khanhha2711/Nhom2-HomeStay</h5></li> </ul>
+  <hr>
+<h3>Real Estate Management Web Project</h3> 
+<h5>Front-end Development for Real Estate Platform</h5> 
+<ul>Project description:
+  <li>Developed a real estate management website using HTML, CSS, and JavaScript.</li> <li>Built interactive features allowing users to post property listings and contact owners for renting.</li>
+  <li>Designed responsive layouts to ensure optimal viewing across desktop and mobile devices.</li>
+  <li>Implemented user-friendly interfaces for browsing properties, submitting listings, and managing inquiries.</li> 
+  <li>Tested core functionalities to ensure smooth user experience and correct data handling.</li>
+  <li>Technologies: HTML, CSS, JavaScript</li> <li>Role: Front-end Developer & Functional Tester</li>
+  <li><h5>Github Link:https://github.com/khanhha2711/Nhom10-QLBDS</h5></li> </ul>
+  <hr>
+<h3>CodeGym Full-stack Development Course</h3>
+<h5>Comprehensive Programming Training with Practical Case Studies</h5>
+<ul>Course description:
+  <li>Completed 3 modules out of 7 in a full-stack development curriculum covering core programming, AI, and backend development.</li>
+  <li>Learned essential programming skills including Git, Java, AI concepts, database management, and web development frameworks.</li> <li>Participated in multiple practical case studies in each module to apply concepts and reinforce learning.</li> 
+  <li>Gained hands-on experience working with JavaScript, Spring MVC and AI chatbot building.</li>
+  <li>Focused on both theoretical knowledge and practical skills for real-world software development.</li> 
+  <li>Technologies & Topics: Git, Java, AI, SQL, Spring MVC, javaScript, html, css</li> <li>Role: Student & Case Study Practitioner</li>
+  <li> Learning of path: <img width="2088" height="1232" alt="image" src="https://github.com/user-attachments/assets/a067e94a-31bf-4bba-a940-d1d9506969ea" />
+  </li>
+  <li><h5>Course roadmap: Modules 1 to 3 completed (Preparation, Advanced programming, Working with AI)</h5></li> </ul> 
+  <hr>
