@@ -48,7 +48,7 @@ About me:https://nguyenannthu.github.io/Introduction-about-Nguy-n-Anh-Th-/
       <li>CSS</li>
       <li>JavaScript</li>
       <li>SQL</li>
-      <li>Java - MVC >Java  
+      <li>Java - MVC </li>
     </ul>
     </td>
     <td>
